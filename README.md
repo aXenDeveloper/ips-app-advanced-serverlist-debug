@@ -1,6 +1,6 @@
 # (aXen) Advanced Server List - Debug Tool
 
-This tool is working only in your own server, it doesn't work in the IPS cloud!
+This tool is working only in your own server, it **doesn't work in the IPS cloud**!
 
 ## 🏷️ Requirements
 
@@ -26,6 +26,8 @@ $server['options'] = [
   'query_port' => 10011
 ];
 ```
+
+If you don't know about server type go to section [Servers Type](https://github.com/aXenDeveloper/ips-app-advanced-serverlist-debug#-servers-type).
 
 2. Upload file **debug.php** in folder:
 
