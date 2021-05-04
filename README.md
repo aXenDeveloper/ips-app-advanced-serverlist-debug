@@ -29,13 +29,13 @@ $server['options'] = [
 
 If you don't know about server type go to section [Servers Type](https://github.com/aXenDeveloper/ips-app-advanced-serverlist-debug#-servers-type).
 
-2. Upload file **debug.php** in folder:
+3. Upload file **debug.php** in folder:
 
 ```
 applications\axenserverlist\interface
 ```
 
-3. Open this file in your browser:  
+4. Open this file in your browser:  
    For example path:
 
 ```
